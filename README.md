@@ -1,2 +1,2 @@
 # FastApi-Curso
-Curso basico
+Curso básico
